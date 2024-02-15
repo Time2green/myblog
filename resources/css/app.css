@@ -1,0 +1,30 @@
+.section-quote{
+    width: 100%;
+    height: 300px;
+    background-color: #eaeaea;
+}
+.section-quote div:first-child{
+    height: 100%;
+}
+.card{
+    border-radius: 0;
+}
+.card img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 0 !important;
+}
+.icons i{
+    font-size: 2rem;
+}
+.icons span{
+    font-size: 1rem;
+}
+a{
+    color: #2b3035;
+    text-decoration: none;
+}
+a:hover{
+    color: #000000;
+}
